@@ -1,0 +1,136 @@
+name: legal_authority
+description: a library/repository of all the laws of the federation and much more...
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  # sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons:
+
+  provider:
+
+  introduction_screen:
+
+  google_fonts:
+
+  flutter_pdfview:
+
+  # syncfusion_flutter_pdfviewer:
+
+  # flutter_plugin_pdf_viewer:
+
+  http:
+
+  path_provider:
+
+  flutter_spinkit:
+
+  timeline_tile:
+
+  font_awesome_flutter:
+
+  unicorndial:
+
+  firebase_core:
+
+  cloud_firestore:
+
+  cloud_firestore_web:
+
+  firebase_auth:
+
+  firebase_storage:
+
+  image_picker:
+
+  esys_flutter_share:
+
+  intl:
+
+  timeago:
+
+  sqflite:
+
+  zefyr:
+
+  youtube_player_flutter:
+
+  flutter_link_preview:
+
+  cached_network_image:
+
+  flutter_staggered_grid_view:
+
+  flutter_bloc:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/Resources/Splash/
+    - lib/Resources/Icons/
+    - lib/Resources/Flags/
+    - lib/Resources/Media/Photos/
+    - lib/Resources/Profile/
+    - lib/Resources/Media/Photos/Background/
+    - lib/Resources/Docs/
+
+  fonts:
+    - family: Emporia
+      fonts:
+        - asset: lib/Resources/Fonts/EmporiaRegular.otf
+
+    - family: Sebino
+      fonts:
+        - asset: lib/Resources/Fonts/Sebino-Bold.ttf
+
+    - family: Astra
+      fonts:
+        - asset: lib/Resources/Fonts/astra.ttf
+
+    - family: Roboto
+      fonts:
+        - asset: lib/Resources/Fonts/RobotoMono-Regular.ttf
+        - asset: lib/Resources/Fonts/RobotoMono-Bold.ttf
+
+    - family: Playfair
+      fonts:
+        - asset: lib/Resources/Fonts/PlayfairDisplay-Regular.ttf
+        - asset: lib/Resources/Fonts/PlayfairDisplay-Bold.ttf
+
+    - family: Blanco
+      fonts:
+        - asset: lib/Resources/Fonts/Blanco-Bold.ttf
+
+    - family: Helvetica
+      fonts:
+        - asset: lib/Resources/Fonts/HelveticaNeueBd.ttf
+
+    - family: Sailor
+      fonts:
+        - asset: lib/Resources/Fonts/SAILORRegular.ttf
+        - asset: lib/Resources/Fonts/SAILORBold.ttf
+
+    - family: Proxima
+      fonts:
+        - asset: lib/Resources/Fonts/ProximaNova-Regular.otf
+        - asset: lib/Resources/Fonts/ProximaNova-Bold.otf
+        - asset: lib/Resources/Fonts/ProximaNova-Extrabold.otf
+
+    - family: Paul
+      fonts:
+        - asset: lib/Resources/Fonts/PaulGrotesk-Bold-Trail.otf

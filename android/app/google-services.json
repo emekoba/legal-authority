@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962858264948",
+    "project_id": "legal-authority",
+    "storage_bucket": "legal-authority.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962858264948:android:58d856beb0dd7f20236421",
+        "android_client_info": {
+          "package_name": "emekoba.legal_authority"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962858264948-31jsv8p2iqbbhcr13kqafqpvn3f1ch9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBCxEYElTZ22XLfzdRWBxGiYsRj6k7Fa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962858264948-31jsv8p2iqbbhcr13kqafqpvn3f1ch9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
